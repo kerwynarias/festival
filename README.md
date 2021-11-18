@@ -1,8 +1,9 @@
 # festival
--Buenas mi nombre es Kerwyn Arias te voy hablar sobre mi proyecto.
+-Buenas mi nombre es Kerwyn Arias te voy un poco de este proyecto hablar sobre este proyecto.
 -Este proyecto fue realizado con el fin de aprender a implementar nuestas tecnicas.
 -instalacion de node js, paquetes de dependencia y procesadores.
 -Aplicar partica en este proyecto basico en HTML, css, javascript.
+-implementacion de gulp y sass
 -Utilice dependencias de desarrollo 
 
     "dart-sass": "^1.25.0",
